@@ -9,7 +9,6 @@ from nltk.stem import PorterStemmer                             # Stemmer
 from nltk.corpus import stopwords                               # Stop word corpus
 from textblob import Word, TextBlob                             # For lemmatizer and n-grams
 import numpy as np                                              # For creating a matrix
-import scipy
 from scipy import sparse                                        # For creating a sparse matrix
 from sklearn.model_selection import train_test_split            # For splitting the dataset into training and testing
 from sklearn.feature_extraction.text import CountVectorizer     # For Bag of words
