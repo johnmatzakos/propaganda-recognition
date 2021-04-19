@@ -27,10 +27,7 @@ class SupervisedLearning:
             i. Random Forests (RF)
             ii. AdaBoost (AB)
         5. K-Nearest Neighbor (KNN)
-        6. Neural Networks
-        7. Deep Neural Networks
-        8. Linear Discriminant Analysis (LDA)
-        8. Quadratic Discriminant Analysis (QDA)
+        6. Deep Neural Networks
     """
     '''
     def __init__(self):
